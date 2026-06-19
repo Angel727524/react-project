@@ -98,12 +98,7 @@ return ( <div className="page"> <div className="card"> <h1>Project Portfolio</h1
     <h2>GitHub Repository</h2>
 
     <p>
-      Add your GitHub repository link before
-      submitting the project.
-    </p>
-
-    <p>
-      https://github.com/yourusername/react-portfolio
+    <h2>https://github.com/Angel727524/react-project</h2>t
     </p>
   </div>
 </div>
